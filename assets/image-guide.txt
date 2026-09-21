@@ -1,0 +1,81 @@
+PREM MEHNDI JAIPUR WEBSITE — IMAGE GUIDE
+======================================
+This folder holds every image the website uses — all 30 are Prem's own
+supplied mehndi reference photos. To swap any of them out later, just
+replace a file with a new photo saved under the EXACT same file name
+below (same folder, same name, .jpg format). No code edits needed — the
+website will pick up the new photo automatically.
+
+Recommended photo orientation: PORTRAIT (taller than wide), roughly a
+3:4 or 4:5 ratio, well-lit, minimum 1000px on the short side.
+
+--------------------------------------------------------------------
+HERO SECTION (top of homepage, the big framed photo)
+--------------------------------------------------------------------
+hero-mehndi.jpg            -> Main homepage banner photo — the elegant
+                               full-hand bridal design with gold jewellery.
+
+--------------------------------------------------------------------
+ABOUT SECTION ("Meet Prem")
+--------------------------------------------------------------------
+bridal-mehndi-04.jpg       -> Large photo next to Prem's bio text.
+floral-mehndi-02.jpg       -> Small overlapping photo in front of it.
+
+--------------------------------------------------------------------
+PORTFOLIO / GALLERY SECTION (filterable grid — tap a photo to enlarge)
+--------------------------------------------------------------------
+Tagged "Bridal" (13 photos — full-hand & feet bridal designs):
+  bridal-mehndi-01.jpg through bridal-mehndi-12.jpg,
+  hero-mehndi.jpg (also appears in the gallery)
+
+Tagged "Groom" (5 photos — men's hand designs, initials & symbols):
+  groom-mehndi-01.jpg, groom-mehndi-02.jpg, groom-mehndi-03.jpg,
+  groom-mehndi-04.jpg, groom-mehndi-05.jpg
+
+Tagged "Kids" (4 photos — barbie, penguin, panda & simple kids designs):
+  kids-mehndi-01.jpg, kids-mehndi-02.jpg, kids-mehndi-03.jpg,
+  kids-mehndi-04.jpg
+
+Tagged "Arabic & Floral" (7 photos — lighter single-hand/arm designs):
+  floral-mehndi-01.jpg through floral-mehndi-07.jpg
+
+Untagged / "Function Décor" (shows only under "All", no filter chip):
+  event-decor-01.jpg -> a mehndi function/decor photo, included in the
+                         gallery as a behind-the-scenes touch.
+
+To change a photo's category tag (Bridal / Groom / Kids / Arabic & Floral),
+open index.html, find the matching file name inside the
+<div class="gallery-grid"> block, and change its data-cat="..." value.
+
+--------------------------------------------------------------------
+INSTAGRAM PREVIEW SECTION
+--------------------------------------------------------------------
+bridal-mehndi-04.jpg, groom-mehndi-02.jpg, kids-mehndi-02.jpg,
+floral-mehndi-03.jpg
+  -> Small 4-photo preview grid linking out to the Instagram profile.
+     Swap these for Prem's 4 best/most recent real Instagram posts.
+
+--------------------------------------------------------------------
+CONTACT / BOOKING SECTION
+--------------------------------------------------------------------
+bridal-mehndi-10.jpg       -> Right-side photo next to the WhatsApp
+                               booking panel.
+
+--------------------------------------------------------------------
+ABOUT THESE PHOTOS
+--------------------------------------------------------------------
+These are the real mehndi design photos Prem shared (30 total, sorted
+into bridal, groom, kids and Arabic/floral by what's actually in each
+shot). They're ready to use as-is — no placeholder swap needed. If new
+photos come in later, drop them in following the same file-naming
+pattern above, or ask for the gallery to be reorganized.
+
+--------------------------------------------------------------------
+OTHER DETAILS TO CONFIRM BEFORE SENDING TO THE CLIENT
+--------------------------------------------------------------------
+- Real client testimonials (placeholder cards are in the "Client Love"
+  section of index.html — search for "Add a real client testimonial here")
+- Confirm WhatsApp number (+91 96753 34233), Instagram handle
+  (@jaipur_mehandi_artist__) and email (premmehandijaipur@gmail.com)
+- Confirm exact service area within Jaipur beyond Vaishali Nagar, if
+  Prem wants that listed
